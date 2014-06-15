@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="subtitle">my subtitle</string>
+    <string name="footer">my Footer</string>
+    <string name="pushMe">push me</string>
+    <string name="app_name">Otto Butterknife</string>
+    <string name="move_location">Move Location</string>
+    <string name="clear_location">Clear History</string>
+
+</resources>
